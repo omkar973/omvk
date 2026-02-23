@@ -7,6 +7,7 @@ This project demonstrates how to manage HTML and CSS development in separate bra
 
 ## 📂 Project Structure
 
+```bash
 project-folder/
 │
 ├── index.html
